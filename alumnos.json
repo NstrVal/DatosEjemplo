@@ -7,6 +7,6 @@
   {"alumno": "Esther", "nota": 9.8, "ranking": 7},
   {"alumno": "Carlos", "nota": 6.9, "ranking": 80},
   {"alumno": "Maria", "nota": 5.0, "ranking": 130},
-  {"alumno": "Eva", "nota": 3.5, "ranking": 160},
-  {"alumno": "Val", "nota": 10.0, "ranking": 2}
+  {"alumno": "Val", "nota": 3.5, "ranking": 160},
+  {"alumno": "Eva", "nota": 10.0, "ranking": 2}
 ]
