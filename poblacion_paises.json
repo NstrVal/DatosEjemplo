@@ -1,0 +1,12 @@
+[
+  {"pais": "India", "habitantes": 1416, "ranking": 1},
+  {"pais": "China", "habitantes": 1410, "ranking": 2},
+  {"pais": "Estados Unidos", "habitantes": 340, "ranking": 3},
+  {"pais": "Indonesia", "habitantes": 277, "ranking": 4},
+  {"pais": "Paquistan", "habitantes": 241, "ranking": 5},
+  {"pais": "Nigeria", "habitantes": 223, "ranking": 6},
+  {"pais": "Brasil", "habitantes": 215, "ranking": 7},
+  {"pais": "Bangladesh", "habitantes": 172, "ranking": 8},
+  {"pais": "Rusia", "habitantes": 144, "ranking": 9},
+  {"pais": "Mexico", "habitantes": 129, "ranking": 10}
+]
