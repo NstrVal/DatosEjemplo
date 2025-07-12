@@ -5,6 +5,8 @@
   {"alumno": "Sergio", "nota": 9.0, "ranking": 5},
   {"alumno": "Marta", "nota": 5.9, "ranking": 25},
   {"alumno": "Esther", "nota": 6.8, "ranking": 7},
+  {"alumno": "Esther", "nota": 6.5, "ranking": 9},
+  {"alumno": "Esther", "nota": 6.2, "ranking": 10},
   {"alumno": "Carlos", "nota": 5.1, "ranking": 80},
   {"alumno": "Maria", "nota": 4.9, "ranking": 130},
   {"alumno": "Nicolas", "nota": 3.5, "ranking": 160},
